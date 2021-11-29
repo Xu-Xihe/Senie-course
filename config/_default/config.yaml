@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Senie # Website name
-baseurl: / # Website URL
+baseurl: https://xuxihe.vercel.app/ # Website URL
 copyright: '© 曦曦呵呵' # Footer text, e.g. '© {year} Me'
 
 ############################
