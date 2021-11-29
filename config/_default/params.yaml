@@ -133,3 +133,7 @@ cms:
 icon:
   pack:
     ai: false
+
+# baidu
+marketing:
+  baidu_site_verification: 'code-OmsUSJbfg4'
