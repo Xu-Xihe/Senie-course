@@ -1,0 +1,12 @@
+<style>
+.markmap > svg {
+  width: 100%;
+  height: {{ index .Params 0 }}px;
+}
+</style>
+
+<div class="markmap">
+{{ .Inner }}
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
