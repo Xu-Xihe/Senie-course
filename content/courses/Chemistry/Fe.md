@@ -6,7 +6,7 @@ linktitle: "Fe铁"
 date: 2021-11-27T15:26:33+08:00
 type: book
 weight: 300
-summary: "一种极其常见的元素。" 单质
+summary: "一种极其常见的元素。"
 ---
 
 ## 单质
