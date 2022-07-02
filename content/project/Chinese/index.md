@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "语文知识"
+title: "语文"
 summary: "语文试卷结构分析与答题技巧总结。"
 authors: [XXH]
 tags: [高中课程]

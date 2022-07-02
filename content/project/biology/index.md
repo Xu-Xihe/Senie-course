@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "化学"
-summary: "普通高中标准课程化学知识点整理。"
+title: "生物"
+summary: "太杂了！🤣"
 authors: [XXH]
 tags: [高中课程]
 categories: []
-date: 2021-11-18T20:05:23+08:00
+date: 2022-07-02T21:24:10+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "courses/chemistry/"
+external_link: "course/biology/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

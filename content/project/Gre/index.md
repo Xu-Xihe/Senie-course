@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "物理知识"
-summary: "普通高中标准课程物理知识点整理。"
+title: "几何基本定理"
+summary: "谁叫总是伪证呐🤣"
 authors: [XXH]
 tags: [高中课程]
 categories: []
-date: 2021-11-18T20:08:05+08:00
+date: 2022-07-02T20:08:05+08:00
 
 # Optional external URL for project (replaces project detail page).
-# external_link: ""
+external_link: "courses/gre/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

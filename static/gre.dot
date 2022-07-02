@@ -1,0 +1,13 @@
+digraph G {
+    rankdir=LR;
+    a[label="线与线",shape=mrecord]
+    b[label="线与面",shape=mrecord]
+    c[label="面与面",shape=mrecord]
+    a->b[label="1"];
+    b->a[label="2"];
+    a->c[label="3"];
+    b->c[label="5"];
+    c->b[label="6"];
+    c->a[label="4"];
+    
+}

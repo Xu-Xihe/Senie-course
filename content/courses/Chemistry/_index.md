@@ -1,5 +1,5 @@
 ---
-title: 化学知识点
+title: 化学
 type: book
 summary: 对于化学重要知识点的总结与提炼。
 ---
