@@ -140,3 +140,5 @@ $\ce{NH^+4 + OH- \triangleq NH3 ^ + H2O}$
 ### 工业制法
 
 $\ce{N2 ->[H2] NH3 ->[O2] NO ->[O2] NO2 ->[H2O] HNO3}$
+
+{{< comment >}}
